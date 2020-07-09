@@ -1,4 +1,4 @@
-I’m a hands-on Technical Leader with a focus on People and Product. I've also Co-Founded [Sprout]((https://hellosprout.io)- A platform to request and recieve feedabck in Slack
+I’m a hands-on Technical Leader with a focus on People and Product. I've also Co-Founded [Sprout](https://hellosprout.io)- A platform to request and recieve feedabck in Slack
 
 I have a very deep interest and experience working with Golang, Distributed Systems, Data Engineering and ML. When I’m not working with teams to figure out what to build next or how to build it, I'm heads down getting services built and shipped to customers using best in class tech for the problems at hand.
 
