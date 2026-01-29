@@ -1,7 +1,7 @@
-I’m a hands-on Technical Leader with a focus on People and Product. 
+Saif is a serial entrepreneur and builder with two successful exits.
 
-I have a very deep interest and experience working with Golang, Distributed Systems, Data Engineering and ML. When I’m not working with teams to figure out what to build next or how to build it, I'm heads down getting services built and shipped to customers using best in class tech for the problems at hand.
+As CTO at Bitstrapped (acquired by TELUS), he architected production AI solutions for hundreds of companies across IoT, fintech, healthcare and just about every other industry you think of being distrupted by AI. He also scaled the team from 5 to 100 engineers, and headlined Google NEXT speaking on production-grade agentic solutions.
 
-Outside of tech a few of my interests include Healthcare, Investing and IoT. Over the years I’ve had the fortunate pleasure of launching successful products and/or businesses in quite a few of these domains. Most recently my team at ecobee launched Haven - ecobee's Home Security solution. Prior to this, in the capacity of a Lead Engineer and CTO I helped co-found and launch SwiftPad to help reduce the wait times and inefficiencies which come with pharmacies.
+As Chief Architect at Lemonaide (acquired by BeatStars), he designed scalable AI systems to responsibly serve the artist community.
 
-Overall I’m a strong believer in the saying “Purpose, People, Product, Profit” and have continued to stand by it with the teams and products I help build.
+Outside of tech, Saif runs a social enterprise working with communities in Madagascar, Kenya, and Brazil that has planted over 3.5 million mangrove trees and funded the removal of 45,000 kg of ocean-bound plastic from shorelines across Southeast Asia.
